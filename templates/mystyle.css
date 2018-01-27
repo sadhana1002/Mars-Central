@@ -1,0 +1,12 @@
+.top-center{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    align-self:center;
+    text-align: center;
+    -ms-grid-column-align: center;
+}
+
+h3{
+    font-style: bold;
+}
