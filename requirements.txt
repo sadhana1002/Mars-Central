@@ -4,3 +4,4 @@ lxml==3.8.0
 pandas==0.20.3
 spyder==3.2.3
 SQLAlchemy==1.1.13
+splinter==0.7.7
